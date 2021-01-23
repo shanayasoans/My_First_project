@@ -7,6 +7,7 @@ namespace My_First_project
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to ISM4300!");
         }
     }
 }
